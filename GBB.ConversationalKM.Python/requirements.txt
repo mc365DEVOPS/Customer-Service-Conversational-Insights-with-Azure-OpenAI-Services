@@ -1,6 +1,6 @@
 azure-functions
 azure-cosmosdb-table==1.0.6
-azure-storage-blob==12.3.0
-requests==2.25.1
+azure-storage-blob==12.13.0
+requests==2.32.2
 isodate==0.6.0
 python-dateutil==2.8.1
